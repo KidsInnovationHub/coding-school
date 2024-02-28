@@ -1,0 +1,83 @@
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+img{
+    width: 150px;
+    height: auto;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li{
+    margin-right: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.bg-img img {
+    width: 1335px;
+    height: 1000;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
+.mainheading{
+    text-align: center;
+    color:black;
+}
+.mainheading{
+    text-align: center;
+    color: black;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+.img-1 img{
+    width:500px;
+    height: 100;
+}
+.img-2 img{
+    width: 400px;
+    height: 40;
+}
+.img-3 img{
+    width: 270px;
+    height: 150;
+}
+.Form-group{
+    margin-bottom: 20px;
+}
+.Form-group label{
+    display: block;
+    margin-bottom: 5px;
+}
+.Form-group input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.Form-group input[type="submit"]{
+    background-color: grey;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+label {
+    display: flex;
+}
+
+.my-form{
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+}
